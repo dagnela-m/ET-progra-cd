@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+pycountry
+scikit-learn
+matplotlib
+seaborn
+plotly
+dash
+tqdm
